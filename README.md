@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumit Roy</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
